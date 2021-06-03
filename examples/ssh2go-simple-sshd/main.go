@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/codegangsta/cli"
-	"github.com/karfield/ssh2go"
+	"github.com/ssdev-go/ssh2go"
+	"github.com/urfave/cli"
 )
 
 type ServerCallbacks struct{}
